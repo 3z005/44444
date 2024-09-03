@@ -17,3 +17,7 @@ td, th {
 .paragrafo-normale {
     background-color: lightblue;
 }
+
+.padre {
+    color: red;
+}
