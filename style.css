@@ -6,7 +6,9 @@ ciao
     border-collapse: collapse;
     width: 100%;
 }
-td, th {
+
+
+td > th {
     border: 1px solid;
     text-align: center;
 }
